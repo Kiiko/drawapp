@@ -1,3 +1,4 @@
+
 package shapes;
 
 public class Rectangle extends Point{
@@ -6,3 +7,4 @@ public class Rectangle extends Point{
 
  }
 }
+
