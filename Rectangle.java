@@ -1,5 +1,8 @@
 package shapes;
 
-public class Rectangle {
+public class Rectangle extends Point{
+ @Override
+ public void draw(){
 
+ }
 }
