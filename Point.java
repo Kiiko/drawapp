@@ -5,6 +5,11 @@ public class Point() implements Shape{
 
     public void draw(){
     }
+
+    @Override
+    public void update(){
+
+    }
     @Override
     public void moveTo(int x, int y){
     
