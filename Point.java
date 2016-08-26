@@ -14,8 +14,14 @@ public class Point() implements Shape{
     public void moveTo(int x, int y){
     
     }
+
     @Override
-    public void reDraw(){
+    public void scale(int dx, int dy){
     
     }
+    @Override
+    public void reDraw(){
+        draw();
+    }
+    
 }
